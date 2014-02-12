@@ -1,0 +1,5 @@
+abbreviations = [ "tbsp.", "tbsp", "T.", "T" ]
+system = "English units"
+defined = "1/2 fl.oz."
+fl_oz = 1/2
+mL = 14.79
