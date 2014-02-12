@@ -1,3 +1,4 @@
+name = "cup"
 abbreviations = [ "C" ]
 system = "English units"
 defined = "1/2 pint"

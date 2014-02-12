@@ -1,3 +1,4 @@
+name = "tablespoon"
 abbreviations = [ "tbsp.", "tbsp", "T.", "T" ]
 system = "English units"
 defined = "1/2 fl.oz."
