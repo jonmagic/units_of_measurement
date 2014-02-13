@@ -1,0 +1,6 @@
+name = "pint"
+abbreviations = [ "pt.", "pt" ]
+system = "English units"
+defined = "1/2 quart"
+fl_oz = 16
+mL = 473.18

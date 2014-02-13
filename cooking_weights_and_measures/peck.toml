@@ -1,0 +1,6 @@
+name = "peck"
+abbreviations = [ "pk.", "pk" ]
+system = "English units"
+defined = "1/4 bushel"
+cu_in = 537.61
+mL = 8809.77

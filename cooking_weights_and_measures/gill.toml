@@ -1,0 +1,6 @@
+name = "gill"
+abbreviations = [ "gi.", "gi" ]
+system = "English units"
+defined = "1/2 cup"
+fl_oz = 4
+mL = 118.29

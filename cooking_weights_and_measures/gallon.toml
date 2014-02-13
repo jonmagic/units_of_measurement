@@ -1,0 +1,6 @@
+name = "gallon"
+abbreviations = [ "gal.", "gal" ]
+system = "English units"
+defined = "231 in3"
+fl_oz = 128
+mL = 3785.41

@@ -1,0 +1,6 @@
+name = "quart"
+abbreviations = [ "qt.", "qt" ]
+system = "English units"
+defined = "1/4 gallon"
+fl_oz = 32
+mL = 946.35

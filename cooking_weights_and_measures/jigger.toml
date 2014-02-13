@@ -1,0 +1,6 @@
+name = "jigger"
+abbreviations = []
+system = "English units"
+defined = "1 1/2 fl.oz."
+fl_oz = 1.5
+mL = 44.36
