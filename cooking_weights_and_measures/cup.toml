@@ -1,5 +1,5 @@
 name = "cup"
-abbreviations = [ "C" ]
+abbreviations = [ "C", "c." ]
 system = "English units"
 defined = "1/2 pint"
 fl_oz = 8
